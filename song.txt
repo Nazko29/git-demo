@@ -7,5 +7,3 @@ turum tum
 
 gui zminu
 gui gusi
-
-git delet github
